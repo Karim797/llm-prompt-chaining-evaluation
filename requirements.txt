@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+sentencepiece
+rouge-score
+pandas
+google-generativeai
+openai
